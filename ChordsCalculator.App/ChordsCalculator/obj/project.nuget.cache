@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MRubykV2JkffQjv6S0Zaz15/ZHLUP8C6XJZ85EVUX/bLj7DRYVWZ/l1Na/2Ef9ZRFtr7em4aqhNW8z4f3eyRWw==",
+  "success": true,
+  "projectFilePath": "D:\\Training\\Ariel Fiengo\\PersonalProjects\\0.C#-Beginner\\Chords_Calculator\\ChordsCalculator.App\\ChordsCalculator\\ChordsCalculator.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ariel.fiengo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\ariel.fiengo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ariel.fiengo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\ariel.fiengo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\ariel.fiengo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\ariel.fiengo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
