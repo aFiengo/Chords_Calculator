@@ -88,6 +88,29 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "ChordsCalculator.Logic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ChordsCalculator.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ChordsCalculator.Logic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ChordsCalculator.Logic.dll": {}
+        }
+      },
+      "ChordsCalculator.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ChordsCalculator.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ChordsCalculator.Models.dll": {}
+        }
       }
     }
   },
@@ -429,10 +452,21 @@
         "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "ChordsCalculator.Logic/1.0.0": {
+      "type": "project",
+      "path": "../ChordsCalculator.Logic/ChordsCalculator.Logic.csproj",
+      "msbuildProject": "../ChordsCalculator.Logic/ChordsCalculator.Logic.csproj"
+    },
+    "ChordsCalculator.Models/1.0.0": {
+      "type": "project",
+      "path": "../ChordsCalculator.Models/ChordsCalculator.Models.csproj",
+      "msbuildProject": "../ChordsCalculator.Models/ChordsCalculator.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "ChordsCalculator.Logic >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
   },
@@ -463,7 +497,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Training\\Ariel Fiengo\\PersonalProjects\\0.C#-Beginner\\Chords_Calculator\\ChordsCalculator.App\\ChordsCalculator.Logic\\ChordsCalculator.Logic.csproj": {
+              "projectPath": "D:\\Training\\Ariel Fiengo\\PersonalProjects\\0.C#-Beginner\\Chords_Calculator\\ChordsCalculator.App\\ChordsCalculator.Logic\\ChordsCalculator.Logic.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
