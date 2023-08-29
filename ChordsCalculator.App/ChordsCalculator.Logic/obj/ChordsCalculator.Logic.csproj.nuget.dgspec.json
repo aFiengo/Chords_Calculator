@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Training\\Ariel Fiengo\\PersonalProjects\\0.C#-Beginner\\Chords_Calculator\\ChordsCalculator.App\\ChordsCalculator.Logic\\ChordsCalculator.Logic.csproj": {}
+    "E:\\Ariel\\Programacion\\Personal_Projects\\2023\\Chords_Calculator\\ChordsCalculator.App\\ChordsCalculator.Logic\\ChordsCalculator.Logic.csproj": {}
   },
   "projects": {
-    "D:\\Training\\Ariel Fiengo\\PersonalProjects\\0.C#-Beginner\\Chords_Calculator\\ChordsCalculator.App\\ChordsCalculator.Logic\\ChordsCalculator.Logic.csproj": {
+    "E:\\Ariel\\Programacion\\Personal_Projects\\2023\\Chords_Calculator\\ChordsCalculator.App\\ChordsCalculator.Logic\\ChordsCalculator.Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Training\\Ariel Fiengo\\PersonalProjects\\0.C#-Beginner\\Chords_Calculator\\ChordsCalculator.App\\ChordsCalculator.Logic\\ChordsCalculator.Logic.csproj",
+        "projectUniqueName": "E:\\Ariel\\Programacion\\Personal_Projects\\2023\\Chords_Calculator\\ChordsCalculator.App\\ChordsCalculator.Logic\\ChordsCalculator.Logic.csproj",
         "projectName": "ChordsCalculator.Logic",
-        "projectPath": "D:\\Training\\Ariel Fiengo\\PersonalProjects\\0.C#-Beginner\\Chords_Calculator\\ChordsCalculator.App\\ChordsCalculator.Logic\\ChordsCalculator.Logic.csproj",
-        "packagesPath": "C:\\Users\\ariel.fiengo\\.nuget\\packages\\",
-        "outputPath": "D:\\Training\\Ariel Fiengo\\PersonalProjects\\0.C#-Beginner\\Chords_Calculator\\ChordsCalculator.App\\ChordsCalculator.Logic\\obj\\",
+        "projectPath": "E:\\Ariel\\Programacion\\Personal_Projects\\2023\\Chords_Calculator\\ChordsCalculator.App\\ChordsCalculator.Logic\\ChordsCalculator.Logic.csproj",
+        "packagesPath": "C:\\Users\\Ariel\\.nuget\\packages\\",
+        "outputPath": "E:\\Ariel\\Programacion\\Personal_Projects\\2023\\Chords_Calculator\\ChordsCalculator.App\\ChordsCalculator.Logic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ariel.fiengo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ariel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Training\\Ariel Fiengo\\PersonalProjects\\0.C#-Beginner\\Chords_Calculator\\ChordsCalculator.App\\ChordsCalculator.Models\\ChordsCalculator.Models.csproj": {
-                "projectPath": "D:\\Training\\Ariel Fiengo\\PersonalProjects\\0.C#-Beginner\\Chords_Calculator\\ChordsCalculator.App\\ChordsCalculator.Models\\ChordsCalculator.Models.csproj"
+              "E:\\Ariel\\Programacion\\Personal_Projects\\2023\\Chords_Calculator\\ChordsCalculator.App\\ChordsCalculator.Models\\ChordsCalculator.Models.csproj": {
+                "projectPath": "E:\\Ariel\\Programacion\\Personal_Projects\\2023\\Chords_Calculator\\ChordsCalculator.App\\ChordsCalculator.Models\\ChordsCalculator.Models.csproj"
               }
             }
           }
@@ -63,17 +63,17 @@
         }
       }
     },
-    "D:\\Training\\Ariel Fiengo\\PersonalProjects\\0.C#-Beginner\\Chords_Calculator\\ChordsCalculator.App\\ChordsCalculator.Models\\ChordsCalculator.Models.csproj": {
+    "E:\\Ariel\\Programacion\\Personal_Projects\\2023\\Chords_Calculator\\ChordsCalculator.App\\ChordsCalculator.Models\\ChordsCalculator.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Training\\Ariel Fiengo\\PersonalProjects\\0.C#-Beginner\\Chords_Calculator\\ChordsCalculator.App\\ChordsCalculator.Models\\ChordsCalculator.Models.csproj",
+        "projectUniqueName": "E:\\Ariel\\Programacion\\Personal_Projects\\2023\\Chords_Calculator\\ChordsCalculator.App\\ChordsCalculator.Models\\ChordsCalculator.Models.csproj",
         "projectName": "ChordsCalculator.Models",
-        "projectPath": "D:\\Training\\Ariel Fiengo\\PersonalProjects\\0.C#-Beginner\\Chords_Calculator\\ChordsCalculator.App\\ChordsCalculator.Models\\ChordsCalculator.Models.csproj",
-        "packagesPath": "C:\\Users\\ariel.fiengo\\.nuget\\packages\\",
-        "outputPath": "D:\\Training\\Ariel Fiengo\\PersonalProjects\\0.C#-Beginner\\Chords_Calculator\\ChordsCalculator.App\\ChordsCalculator.Models\\obj\\",
+        "projectPath": "E:\\Ariel\\Programacion\\Personal_Projects\\2023\\Chords_Calculator\\ChordsCalculator.App\\ChordsCalculator.Models\\ChordsCalculator.Models.csproj",
+        "packagesPath": "C:\\Users\\Ariel\\.nuget\\packages\\",
+        "outputPath": "E:\\Ariel\\Programacion\\Personal_Projects\\2023\\Chords_Calculator\\ChordsCalculator.App\\ChordsCalculator.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ariel.fiengo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ariel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

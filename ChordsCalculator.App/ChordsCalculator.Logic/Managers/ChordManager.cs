@@ -33,6 +33,24 @@ namespace ChordsCalculator.Logic.Managers
                     chord.Notes.Add(AllNotes[(rootIndex + 3) % 12]);
                     chord.Notes.Add(AllNotes[(rootIndex + 7) % 12]);
                     break;
+                case "dominant7":
+                    chord.Notes.Add(AllNotes[rootIndex]);
+                    chord.Notes.Add(AllNotes[(rootIndex + 4) % 12]);
+                    chord.Notes.Add(AllNotes[(rootIndex + 7) % 12]);
+                    chord.Notes.Add(AllNotes[(rootIndex + 10) % 12]); 
+                    break;
+                case "major7":
+                    chord.Notes.Add(AllNotes[rootIndex]);
+                    chord.Notes.Add(AllNotes[(rootIndex + 4) % 12]);
+                    chord.Notes.Add(AllNotes[(rootIndex + 7) % 12]);
+                    chord.Notes.Add(AllNotes[(rootIndex + 11) % 12]); 
+                    break;
+                case "minor7":
+                    chord.Notes.Add(AllNotes[rootIndex]);
+                    chord.Notes.Add(AllNotes[(rootIndex + 3) % 12]);
+                    chord.Notes.Add(AllNotes[(rootIndex + 7) % 12]);
+                    chord.Notes.Add(AllNotes[(rootIndex + 10) % 12]);
+                    break;
             }
             return chord;
         }
