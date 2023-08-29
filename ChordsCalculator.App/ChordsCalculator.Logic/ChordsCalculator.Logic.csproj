@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ChordsCalculator.Models\ChordsCalculator.Models.csproj" />
+  </ItemGroup>
+
 </Project>
