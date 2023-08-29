@@ -1,3 +1,56 @@
-.vs
-**/bin
-**/obj
+# Visual Studio Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+
+# Compiled output
+bin/
+obj/
+
+# NuGet
+*.nuget.props
+*.nuget.targets
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# .NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+*.userprefs
+
+# Rider
+.idea/
+
+# Microsoft Azure Build Output
+csx/
+ipch/
+*.CodeLens
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Visual Studio 2019 auto-generated files
+Generated\ Files/
+
+# Rider
+.idea/
+*.sln.iml
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
